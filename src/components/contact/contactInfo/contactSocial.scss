@@ -1,0 +1,31 @@
+@import '../../../style/App.scss';
+
+
+
+.contact__social {
+  width: 100%;
+  margin: 60px 0 10px 0;
+  transition: 0.1s ease;
+  cursor: pointer;
+  filter: invert(77%) sepia(99%) saturate(652%) hue-rotate(354deg) brightness(98%) contrast(111%);
+
+}
+
+.contact__social:hover {
+  filter: invert(82%) sepia(90%) saturate(746%) hue-rotate(274deg) brightness(60%) contrast(120%);
+  /* Darker purple color filter on hover */
+}
+
+
+
+@media screen and (max-width: 990px) {
+
+
+  .contact__social {
+    text-align: center;
+    width: 100%;
+    img {
+      margin: 0 auto;
+    }
+  }
+}
