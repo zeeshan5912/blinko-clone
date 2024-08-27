@@ -1,0 +1,25 @@
+{
+  
+  "SmartFeatures": [
+    {
+      "icon": "fa fa-rocket",
+      "title": "Technology",
+      "text": "20,000+ hours of experienced developers"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Transactions​",
+      "text": "1,000,000+ plus transactions processed"
+    },
+    {
+      "icon": "fa fa-dashboard",
+      "title": "Clients​",
+      "text": "3000+​ clients"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Downloads​",
+      "text": "1 Million+​ downloads"
+    }
+  ]
+}
